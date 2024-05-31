@@ -1,0 +1,79 @@
+Table with row headers in column A and column headers in rows 5 through 6,,,,,,,,,,
+"Table 2. Educational Attainment of the Population 25 Years and Over, by Selected Characteristics: 2022",,,,,,,,,,
+(Numbers in thousands. Civilian noninstitutionalized population.1),,,,,,,,,,
+Both Sexes,,,,,,,,,,
+Characteristic,Educational attainment,,,,,,,,,
+,Total,None - 8th grade,9th - 11th grade2,High school graduate3,"Some college, no degree",Associate's degree4,Bachelor's degree,Master's degree,Professional degree,Doctoral degree
+Total,226274,7935,11998,64465,32986,23673,53045,23881,3444,4848
+Marital Status,,,,,,,,,,
+"	 Married, spouse present",125973,4068,5060,32227,16771,13306,32746,16014,2371,3409
+"	 Married, spouse absent, not separated",3562,299,268,1081,481,294,711,303,56,70
+	 Separated,4413,321,548,1436,707,465,610,236,47,43
+	 Widowed,15182,1057,1233,5783,2339,1408,2077,940,161,182
+	 Divorced,25482,665,1566,7753,4576,3369,4701,2130,288,434
+	 Never married,51663,1524,3322,16185,8111,4831,12199,4259,521,711
+Household Relationship,,,,,,,,,,
+	 Family householder,81378,2312,3937,20266,12707,9079,19811,9826,1409,2031
+"		  Married, spouse present",60665,1598,2255,13821,8749,6550,16270,8393,1231,1798
+		  Other family householder,20713,714,1682,6444,3958,2528,3541,1433,178,234
+	 Nonfamily householder,43867,1308,2461,11995,7353,4663,10104,4494,634,853
+		  Living alone,36491,1172,2151,10275,6127,3900,7862,3770,531,702
+		  Living with nonrelatives,7377,136,310,1720,1226,764,2242,724,103,151
+	 Relative of householder,87789,3812,4698,27759,11069,8700,20121,8599,1276,1756
+		  Spouse,60620,1866,2415,16541,7543,6448,15713,7417,1104,1574
+		  Other,27169,1946,2282,11218,3526,2252,4408,1182,172,182
+	 Nonrelative,13240,503,901,4445,1857,1232,3008,962,125,207
+"Citizenship, Nativity, and Year of Entry",,,,,,,,,,
+	 Native born,184926,2358,8492,53421,29529,20824,44405,19500,2781,3615
+		  Native parentage5,166656,2056,7666,48889,26747,18924,39565,17342,2346,3120
+		  Foreign or mixed parentage6,18269,302,825,4533,2782,1900,4839,2158,435,495
+	 Foreign born,41349,5577,3506,11043,3457,2849,8640,4381,662,1233
+		  Naturalized citizen,21462,1831,1185,5520,2105,1885,5303,2452,452,731
+		  Not a citizen,19887,3746,2321,5524,1352,965,3336,1930,211,502
+		 Year of entry,,,,,,,,,,
+			   2010 or later,10937,1151,798,2642,810,594,2717,1681,180,364
+			   2000-2009,10080,1357,1016,2799,793,650,1980,1053,126,305
+			   1990-1999,9011,1285,766,2560,792,651,1805,774,151,225
+			   1980-1989,6042,953,554,1622,545,517,1156,433,102,161
+			   1970-1979,3164,522,255,820,266,244,609,285,52,112
+			   Before 1970,2114,308,117,600,250,193,372,156,52,66
+Labor Force Status,,,,,,,,,,
+	 Employed,138881,3409,5035,34820,19416,15287,37529,17237,2537,3610
+	 Unemployed,4534,170,396,1631,696,428,867,267,34,45
+	 Not in civilian labor force,82859,4356,6567,28013,12873,7958,14649,6377,873,1193
+Occupation (Employed Civilians Only),,,,,,,,,,
+	 Employed Civilians,138881,3409,5035,34820,19416,15287,37529,17237,2537,3610
+"	     Management, business, and financial occupations",27525,207,284,3850,3369,2330,11186,5426,350,523
+	     Professional and related occupations,36026,24,96,2199,2548,3637,13329,9367,1948,2877
+	     Service occupations,19795,1137,1505,7543,3515,2585,2856,520,80,56
+	     Sales and related occupations,11607,130,368,3243,2092,1331,3604,737,42,61
+	     Office and administrative occupations,14377,77,284,4397,3135,2103,3532,738,52,59
+"	     Farming, forestry, and fishing occupations",831,202,137,272,60,54,94,5,2,6
+	     Construction and extraction occupations,7177,721,791,3247,1069,708,529,92,18,2
+"	     Installation, maintenance, and repair occupations",4448,115,263,1859,824,882,435,57,7,6
+	     Production occupations,7195,432,525,3416,1164,700,796,130,16,15
+	     Transportation and material moving occupations,9899,363,780,4794,1643,958,1167,165,22,6
+Industry (Employed Civilians Only),,,,,,,,,,
+	 Employed Civilians,138881,3409,5035,34820,19416,15287,37529,17237,2537,3610
+"	    Agricultural, forestry, fishing, and hunting",2063,269,198,684,282,224,335,53,7,11
+	    Mining,516,15,20,168,77,56,137,33,1,10
+	    Construction,10262,818,921,4077,1641,1077,1408,287,28,7
+	       Manufacturing,13990,423,582,4535,1990,1419,3449,1283,69,241
+	    Wholesale and retail trade,15563,315,692,5436,2718,1826,3558,800,61,156
+	    Transportation and utilities,8940,130,434,3580,1610,1038,1702,387,40,19
+	     Information,2623,5,28,292,380,295,1147,393,36,48
+	     Financial activities,10533,52,117,1653,1569,925,4454,1504,143,117
+	     Professional and business services,18789,388,496,3236,2172,1477,6690,2872,809,649
+	     Educational and health services,32738,243,556,4582,3383,4116,9212,7541,1041,2064
+	     Leisure and hospitality,8875,505,516,3269,1490,836,1770,400,44,44
+	     Other services,6549,225,398,2088,974,935,1236,542,58,93
+	     Public administration,7440,21,77,1221,1131,1064,2431,1142,200,153
+1 Plus armed forces living off post or with their families on post.,,,,,,,,,,
+2 Respondents who have completed 12th grade but did not receive a diploma are included in this category.,,,,,,,,,,
+3 Includes people who earned GEDs.,,,,,,,,,,
+4 Respondents who have completed either an academic or occupational degree are included in this category.,,,,,,,,,,
+5 Native parentage: Both parents born in U.S.,,,,,,,,,,
+6 Foreign or mixed parentage: One or both parents foreign born.,,,,,,,,,,
+Details may not sum to totals due to rounding.,,,,,,,,,,
+"Source: U.S. Census Bureau, Current Population Survey, 2022 Annual Social and Economic Supplement (CPS ASEC).",,,,,,,,,,
+"Information on confidentiality protection, sampling error, nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar22.pdf>.",,,,,,,,,,

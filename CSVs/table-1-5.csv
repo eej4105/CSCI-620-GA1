@@ -1,0 +1,58 @@
+Table with row headers in column A and column headers in rows 5 through 6,,,,,,,,,,,,,,,,
+"Table 1. Educational Attainment of the Population 18 Years and Over, by Age, Sex, Race, and Hispanic Origin: 2022",,,,,,,,,,,,,,,,
+(Numbers in thousands. Civilian noninstitutionalized population.1),,,,,,,,,,,,,,,,
+Asian Alone,,,,,,,,,,,,,,,,
+Characteristic,Educational attainment,,,,,,,,,,,,,,,
+,Total,None,1st - 4th grade,5th - 6th grade,7th - 8th grade,9th grade,10th grade,11th grade2,High school graduate3,"Some college, no degree","Associate's degree, occupational","Associate's degree, academic",Bachelor's degree,Master's degree,Professional degree,Doctoral degree
+Both Sexes,,,,,,,,,,,,,,,,
+	 18 years and over,"16,477",131,101,206,216,123,132,396,"3,047","1,862",376,660,"5,238","2,835",370,785
+		  18 to 24 years,"1,820",0,0,0,4,2,14,150,290,720,19,85,457,60,11,7
+	 25 years and over,"14,657",131,101,206,212,121,118,246,"2,757","1,141",357,575,"4,782","2,774",358,778
+		  25 to 29 years,"1,482",0,Z,0,7,1,4,4,190,140,24,66,601,401,25,19
+		  30 to 34 years,"1,769",0,2,0,8,5,8,15,216,151,31,71,584,452,58,168
+		  35 to 39 years,"1,682",8,3,2,6,2,2,27,278,128,25,81,570,401,64,86
+		  40 to 44 years,"1,583",8,11,8,15,Z,5,7,223,134,50,57,567,351,46,100
+		  45 to 49 years,"1,549",7,11,4,22,5,18,18,239,107,31,52,499,399,56,81
+		  50 to 54 years,"1,387",9,6,14,31,13,17,42,269,81,37,40,484,245,21,79
+		  55 to 59 years,"1,173",12,10,12,24,14,17,28,290,93,41,60,324,150,19,80
+		  60 to 64 years,"1,132",22,7,28,16,7,19,24,315,93,33,54,337,117,17,41
+		  65 to 69 years,963,12,14,33,38,28,7,26,276,65,20,32,281,78,19,35
+		  70 to 74 years,799,11,6,35,17,35,5,10,206,72,20,32,226,93,10,23
+	 75 years and over,"1,138",43,30,69,29,11,16,45,256,78,45,31,308,88,23,65
+Male,,,,,,,,,,,,,,,,
+	 18 years and over,"7,822",44,33,67,99,49,59,191,"1,388",946,163,266,"2,411","1,444",200,462
+		  18 to 24 years,894,0,0,0,2,1,5,83,145,382,10,26,208,27,0,5
+	 25 years and over,"6,928",44,33,67,97,48,54,107,"1,243",564,153,240,"2,203","1,417",200,457
+		  25 to 29 years,741,0,0,0,1,0,0,2,106,70,13,28,276,216,16,12
+		  30 to 34 years,891,0,0,0,5,1,5,3,110,88,3,37,281,235,30,93
+		  35 to 39 years,784,5,0,0,4,0,1,20,147,59,17,32,237,179,29,54
+		  40 to 44 years,745,1,5,2,9,Z,3,4,119,66,19,10,270,163,25,47
+		  45 to 49 years,742,0,5,0,11,2,5,8,110,48,14,19,236,207,34,42
+		  50 to 54 years,654,3,3,7,17,5,11,15,120,44,15,22,209,130,9,44
+		  55 to 59 years,553,2,6,9,13,6,12,15,104,52,11,23,154,81,10,58
+		  60 to 64 years,513,6,5,6,9,6,6,13,133,39,22,28,141,63,9,25
+		  65 to 69 years,435,4,2,11,15,18,5,10,107,29,11,12,129,47,13,22
+		  70 to 74 years,344,8,3,14,5,8,Z,6,84,26,8,12,100,50,5,14
+	 75 years and over,526,15,4,17,8,1,6,12,103,43,20,16,170,47,18,46
+Female,,,,,,,,,,,,,,,,
+	 18 years and over,"8,655",87,68,138,117,74,73,206,"1,659",916,213,393,"2,827","1,390",170,324
+		  18 to 24 years,926,0,0,0,2,1,9,67,145,339,9,59,248,34,11,2
+	 25 years and over,"7,729",87,68,138,115,73,64,138,"1,513",577,204,335,"2,579","1,357",158,322
+		  25 to 29 years,742,0,Z,0,5,1,4,2,84,70,12,38,325,185,9,7
+		  30 to 34 years,878,0,2,0,3,4,3,12,106,63,28,34,303,217,28,75
+		  35 to 39 years,898,3,3,2,2,2,1,7,132,69,8,48,332,222,34,32
+		  40 to 44 years,838,7,6,6,6,0,2,3,103,68,31,47,297,188,20,53
+		  45 to 49 years,807,7,6,4,10,3,13,10,128,59,17,34,263,192,22,39
+		  50 to 54 years,733,6,3,7,14,8,6,27,149,37,22,18,275,115,11,36
+		  55 to 59 years,620,10,3,3,11,8,5,13,186,41,30,37,170,70,10,23
+		  60 to 64 years,619,16,3,22,7,1,13,12,182,53,11,26,196,53,8,16
+		  65 to 69 years,528,7,13,21,23,10,3,16,168,36,10,19,152,31,5,14
+		  70 to 74 years,455,3,3,21,12,27,4,4,121,47,12,19,126,44,5,9
+	 75 years and over,612,28,26,52,22,9,10,33,153,34,25,14,139,42,6,19
+"""Z"" represents rounds to zero. 0 represents true zero.",,,,,,,,,,,,,,,,
+1 Plus armed forces living off post or with their families on post.,,,,,,,,,,,,,,,,
+2 Respondents who have completed 12th grade but did not receive a diploma are included in this category.,,,,,,,,,,,,,,,,
+3 Includes people who earned GEDs.,,,,,,,,,,,,,,,,
+Details may not sum to totals due to rounding.,,,,,,,,,,,,,,,,
+"Source: U.S. Census Bureau, Current Population Survey, 2022 Annual Social and Economic Supplement (CPS ASEC).",,,,,,,,,,,,,,,,
+"Information on confidentiality protection, sampling error, nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar22.pdf>.",,,,,,,,,,,,,,,,
